@@ -107,9 +107,10 @@ npm run dev
 
 6. Open [http://localhost:5173](http://localhost:5173) in your browser
 
-## 📱 Screenshots
+## 📱 Screenshot
 
 ![Expense Splitter Interface](screenshot.png)
+
 *Add expenses and view real-time splitting calculations*
 
 ## 🔮 Future Enhancements
