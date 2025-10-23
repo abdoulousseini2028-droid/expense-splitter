@@ -2,7 +2,7 @@
 
 **Live Demo:** [https://expense-splitter-yje9.vercel.app/](https://expense-splitter-yje9.vercel.app/)
 
-A real-time expense tracking and splitting application built for college roommates who want to easily manage shared expenses like toilet paper, WiFi bills, groceries, cleaning supplies, and utilities—costs that usually one person pays upfront and others reimburse later. Track who paid for what, calculate fair splits, and keep everyone accountable without the awkward money conversations.
+A real-time expense tracking and splitting application built for college roommates who want to easily manage shared expenses like toilet paper, WiFi bills, groceries, cleaning supplies, and utilities; costs that usually one person pays upfront and others reimburse later. Track who paid for what, calculate fair splits, and keep everyone accountable without the awkward money conversations.
 
 ## Features
 
