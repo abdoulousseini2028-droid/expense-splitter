@@ -4,7 +4,7 @@
 
 A real-time expense tracking and splitting application built for college roommates who want to easily manage shared expenses like toilet paper, WiFi bills, groceries, cleaning supplies, and utilities—costs that usually one person pays upfront and others reimburse later. Track who paid for what, calculate fair splits, and keep everyone accountable without the awkward money conversations.
 
-## 🚀 Features
+## Features
 
 - **Add Expenses**: Record expenses with description, amount, payer name, and number of people splitting
 - **Real-time Updates**: All expenses sync instantly using Supabase real-time subscriptions
@@ -24,13 +24,13 @@ A real-time expense tracking and splitting application built for college roommat
 - **Deployment**: Vercel
 - **Version Control**: Git & GitHub
 
-## 📊 Key Metrics
+## Key Metrics
 
 - **Real-time sync**: <100ms latency for expense updates
 - **Fully responsive**: Mobile-first design approach
 - **Production-ready**: Deployed with CI/CD pipeline via Vercel
 
-## 🎯 Use Cases
+## Use Cases
 
 - **College Roommates**: Track who bought toilet paper, paid the WiFi bill, or restocked cleaning supplies
 - **Shared Groceries**: Split the cost of milk, eggs, and other pantry staples fairly
@@ -38,7 +38,7 @@ A real-time expense tracking and splitting application built for college roommat
 - **Household Supplies**: Monitor who paid for dish soap, paper towels, laundry detergent, and other essentials
 - **Group Meals**: Record who ordered takeout or bought ingredients for shared dinners
 
-## 💡 Technical Highlights
+## Technical Highlights
 
 ### Database Design
 - Efficient schema with `expenses` table storing all transaction data
@@ -55,7 +55,7 @@ A real-time expense tracking and splitting application built for college roommat
 - Aggregate functions for total spending and average per person
 - Handles edge cases (division by zero, missing data)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -118,7 +118,6 @@ npm run dev
 - [ ] Export data to CSV/PDF
 - [ ] Expense categories and filtering
 - [ ] Payment reminders and notifications
-- [ ] Multi-currency support
 - [ ] Debt settlement recommendations (who owes whom)
 - [ ] Charts and spending analytics
 - [ ] Payment integration (Venmo, PayPal)
@@ -145,7 +144,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Abdoul Rahim Ousseini**
 - GitHub: [@abdoulousseini2028-droid](https://github.com/abdoulousseini2028-droid)
-- Portfolio: [Your Portfolio Link]
 
 ---
 
