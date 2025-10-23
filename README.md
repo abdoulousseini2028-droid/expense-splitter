@@ -4,7 +4,7 @@
 
 A real-time expense tracking and splitting application built for college roommates who want to easily manage shared expenses like toilet paper, WiFi bills, groceries, cleaning supplies, and utilities; costs that usually one person pays upfront and others reimburse later. Track who paid for what, calculate fair splits, and keep everyone accountable without the awkward money conversations.
 
-##📝 Features
+## 📝 Features
 
 - **Add Expenses**: Record expenses with description, amount, payer name, and number of people splitting
 - **Real-time Updates**: All expenses sync instantly using Supabase real-time subscriptions
